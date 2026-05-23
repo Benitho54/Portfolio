@@ -28,7 +28,8 @@ This is my personal portfolio website built using HTML, CSS, and JavaScript. It 
 ---
 
 ## 📸 Preview
-screenshot.JPEG
+<img width="1309" height="608" alt="screenshot" src="https://github.com/user-attachments/assets/e5dd3401-def4-4dcb-a1a9-46454faa41a7" />
+
 
 ---
 
