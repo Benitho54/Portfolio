@@ -37,7 +37,7 @@ This is my personal portfolio website built using HTML, CSS, and JavaScript. It 
 
 - GitHub: Benitho54
 - Email: benithoruzoka54@gmail.com
-- LinkedIn: (your profile link)
+- LinkedIn: portfolio-xrzy.vercel.app
 
 ---
 
